@@ -1,0 +1,14 @@
+# External packages folder
+venv
+.vscode
+staticfiles
+static/admin
+static/debug_toolbar
+.DS_Store
+db.sqlite3
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
